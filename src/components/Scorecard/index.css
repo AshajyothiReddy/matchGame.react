@@ -1,0 +1,35 @@
+.scorecard-container{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png");
+    height: 600px;
+    width: 500px;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.trophy{
+    height: 150px;
+    width: 100px;
+}
+
+.your-score-heading{
+    color: white;
+    font-size: 24px;
+    font-family: roboto;
+    text-align: center;
+}
+
+.playagain-btn{
+    height: 50px;
+    width: 100px;
+    background-color: #cf60c8;
+    color: white;
+    padding: 5px;
+}
+
+.playagain-img{
+    height: 30px;
+    width: 30px;
+}
